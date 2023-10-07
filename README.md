@@ -6,18 +6,18 @@ Objective : To know how to minimize the air - pollution in India : Analysis feat
 
 Features : 
 - Elements :
-  -PM 2.5
-  -PM 10
-  -NO
-  -NO2
-  -NOx
-  -NH3
-  -CO
-  -SO2
-  -O3
-  -Benzene
-  -Toluene
-  -Xylene
+  - PM 2.5
+  - PM 10
+  - NO
+  - NO2
+  - NOx
+  - NH3
+  - CO
+  - SO2
+  - O3
+  - Benzene
+  - Toluene
+  - Xylene
 - City : 26 cities in India
 
 Target : Air Quality Index (AQI)
